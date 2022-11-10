@@ -1,3 +1,6 @@
 [submodule "js-map-filter-reduce"]
 	path = js-map-filter-reduce
 	url = https://github.com/annagabain/js-map-filter-reduce.git
+[submodule "js-spread-rest-and-destructuring"]
+	path = js-spread-rest-and-destructuring
+	url = https://github.com/annagabain/js-spread-rest-and-destructuring.git
