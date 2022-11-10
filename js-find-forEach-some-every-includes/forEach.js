@@ -9,3 +9,7 @@ const shoppingItems = [
     {name: 'Keyboard', price: 150},
     {name: 'Computer', price: 1400}
 ]
+
+shoppingItems.forEach((shoppingItem) => {
+    console.log(`This ${shoppingItem.name} costs €${shoppingItem.price}.00`)
+})
