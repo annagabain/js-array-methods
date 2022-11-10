@@ -1,0 +1,3 @@
+[submodule "js-map-filter-reduce"]
+	path = js-map-filter-reduce
+	url = https://github.com/annagabain/js-map-filter-reduce.git
