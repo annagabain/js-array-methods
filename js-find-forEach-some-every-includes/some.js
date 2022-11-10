@@ -10,3 +10,12 @@ const shoppingItems = [
     {name: 'Computer', price: 1400}
 ]
 
+const showExpensiveItems = shoppingItems.some((shoppingItem) => {
+    return shoppingItem.price >=1000
+})
+const showLuxuryItems = shoppingItems.some((shoppingItem) => {
+    return shoppingItem.price >=5000
+})
+
+console.log(showExpensiveItems)
+console.log(showLuxuryItems)
